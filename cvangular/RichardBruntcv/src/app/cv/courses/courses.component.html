@@ -1,0 +1,7 @@
+<div class="columna-derecha">
+    <h1>Cursos y Certificados</h1>
+    <section *ngFor="let item of courses">
+        <h2>{{item.nombre}} - {{item.plataforma}}</h2>
+        <p>{{item.fechainicio}} - {{item.fechafinal}}</p>
+    </section>
+</div> 

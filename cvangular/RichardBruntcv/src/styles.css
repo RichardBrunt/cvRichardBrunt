@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0px;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #dedbe5;
+}
+
+
+h1 {
+    font-size: 25px;
+    color:#1c3a4e;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 25px;
+    color: #58211f;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.header {
+    background-color:#1c3a4e;
+    color: #1c3a4e;
+    padding:90px;
+    text-align:center;  
+}
+
+.columna-izquierda {
+    background-color:#ebe8e8;
+    color: rgb(7, 7, 6);
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.columna-derecha {
+    background-color:#dedbe5;
+    padding-left: 20px;
+    padding-right: 20px;           
+}
+
+.logo {
+    width: 50%;
+}
+.footer {
+    background-color: #1c3a4e;
+    color: #ffffff;
+}

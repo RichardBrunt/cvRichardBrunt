@@ -1,0 +1,8 @@
+<div class="columna-derecha"><h1>Experiencia Laboral</h1>
+<section  *ngFor="let item of workexperience">
+    <h2>{{item.fechainicial}}-{{item.fechafinal}}. {{item.puestotrabajo}}</h2>
+    <ul>
+        <li *ngFor="let itemh of item.habilidades">{{itemh.habilidad}}</li>
+    </ul>
+</section>
+</div>

@@ -1,0 +1,163 @@
+{
+    "header":{
+        "nombrecompleto":"Richard Brunt",
+        "titulo":"Tecnico en Informatica Profesional y Personal"
+    },
+    "contact": {
+        "instagram":"@richardd.brunt",
+        "mail": "Brunt300@gmail.com"
+    },
+    "academictraining": [
+        {
+        "organizacion": "Escuela 713 Juan Abdala Chayep",
+        "fechaegreso": "Cursando ultimo año. ",
+        "fechaingreso":"2016",
+        "estudios": "Estudios Secundarios",
+        "titulo": "Tecnico en Informatica Profesional y Personal"
+    },
+    {
+        "organizacion": "Escuela 159 Maestro Isaias Vera",
+        "fechaingreso":"2010-",
+        "fechaegreso": "2016.",
+        "estudios": "Estudios Basicos"
+    }
+],
+    "profile": {
+        "nombre":"Perfil Profesional",
+        "descripcion": "Soy un programador creativo y perfeccionista,capaz de trabajar de manera autónoma y en equipo. Me apasiona aprender y mantenerme actualizado con las últimas tendencias en programación. Mi enfoque perfeccionista se combina con una mentalidad curiosa y adaptable, lo que me permite enfrentar nuevos desafíos con entusiasmo y aportar soluciones innovadoras y eficientes."
+    },
+    "workexperience": [ 
+        {
+            "fechainicial": "2023",
+            "fechafinal": "Actualidad",
+            "puestotrabajo": "Programador Autónomo",
+            "habilidades": [
+                {       
+                    "habilidad": "Desarrollé conocimientos para realizar paginas web."
+                },
+                {
+                    "habilidad": "Adquirí conocimientos de Frontend."
+                },
+                {
+                    "habilidad": "Adquirí conocimientos semi-avanzados de backend."
+                },
+                {
+                    "habilidad": "Adquirí el desarrollo de códigos con de buenas practicas y código limpio."
+                }
+            ]
+        },
+        {
+            "fechainicial": "2022",
+            "fechafinal": "Actualidad",
+            "puestotrabajo": "Atención al publico en comercio",
+            "habilidades": [
+                {
+                    "habilidad": "Desarrollé capacidades para comunicarme de manera efectiva con clientes de diversos perfiles."
+                },
+                {
+                    "habilidad": "Desarrollé habilidades en el manejo de inventario y exhibición de productos."
+                },
+                {
+                    "habilidad": "Adquirí habilidades en la gestión de quejas y resolución de conflictos."
+                },
+                {
+                    "habilidad": "Adquirí habilidades en la gestión de cajas y flujo de dinero."
+                },
+                {
+                    "habilidad": " Utilice programas comerciales"
+                }
+            ]
+        },
+        {
+            "fechainicial": "2019",
+            "fechafinal": "2022",
+            "puestotrabajo": "Ayudante de Técnico en Sistemas de Refrigeración",
+            "habilidades": [
+                {
+                    "habilidad": "Desarrollé conocimientos sólidos en el campo de sistemas de refrigeración."
+                },
+                {
+                    "habilidad": "Realicé montados y puesta en marcha de cámaras frigoríficas, aires condicionas, heladeras y otros."
+                },
+                {
+                    "habilidad": "Realicé la programación de los sistemas de control de frio y calor"
+                },
+                {
+                    "habilidad": "Realicé conexiones eléctricas de sistemas eléctricos."
+                },
+                {
+                    "habilidad": " Lleve a cabo el mantenimiento de estos."
+                }
+            ]
+        },
+        {
+            "fechainicial": "2019",
+            "fechafinal": "2021",
+            "puestotrabajo": "Empresa de Energía Autosustentable Solar",
+            "habilidades": [
+                {
+                    "habilidad": "Desarrollé conocimientos en el campo de las energías renovables."
+                },
+                {
+                    "habilidad": "Realicé conexiones eléctricas en estructuras edilicias."
+                },
+                {
+                    "habilidad": "Realicé colocaciones de sistemas de control con pantallas solares."
+                },
+                {
+                    "habilidad": "Realicé el mantenimiento de los sistemas soles."
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "nombre": "Introduction to Cybersecurity",
+            "plataforma": " Cisco NetAcad",
+            "fechainicio": "Abril,2021",
+            "fechafinal": "Junio,2021"
+        },
+        {
+            "nombre": "Cybersecurity Essentials",
+            "plataforma": " Cisco NetAcad",
+            "fechainicio": "Marzo,2021",
+            "fechafinal": "Junio,2021"
+        }
+    ],
+    "projects": [
+        {
+            "nombre": "Creación y desarrollo de una página web de ventas de indumentaria",
+            "descripcion": "Diseñé una interfaz intuitiva y atractiva para los usuarios. En proceso de integración de un sistema de carrito de compras y gestión de la base de datos para los productos."
+        },
+        {
+            "nombre": "Creación y desarrollo de una aplicación",
+            "descripcion": "Sistema de gestión y administración para flujo de datos personales y venta de entradas para todo tipo de eventos. En proceso de desarrollo."
+        },
+        {
+            "nombre":"Creación y desarrollo de una aplicación",
+            "descripcion": "Sistema de gestión y administración para flujo de datos personales y venta de entradas para todo tipo de eventos.En proceso de desarrollo."
+        }
+    ],
+    "programminglanguages": [
+        {
+            "nombre":"html-5",
+            "porcentaje":"80%"
+        },
+        {
+            "nombre":"ccs-3",
+            "porcentaje":"50%"
+        },
+        {
+            "nombre":"javascript",
+            "porcentaje":"25%"
+        },
+        {
+            "nombre":"python",
+            "porcentaje":"25%"
+        },
+        {
+            "nombre":"mysql",
+            "porcentaje":"50%"
+        }
+    ]
+}   

@@ -1,0 +1,9 @@
+<div class="columna-izquierda">
+    <h1>Lenguajes de Programación</h1>
+<section *ngFor="let item of programminglanguages">
+    <h2>{{item.nombre}}</h2>
+        <div class="progress bg-secondary" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar bg-primary text-dark"[ngStyle]="{'width': item.porcentaje}">{{item.porcentaje}}</div>
+        </div>
+</section>
+</div>  
